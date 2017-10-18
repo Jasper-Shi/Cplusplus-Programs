@@ -1,0 +1,9 @@
+﻿  Contact.cpp
+e:\seneca\2nd semester\oop\ws\oop-workshops-master\ws06\at-home\contact.cpp(131): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\seneca\2nd semester\oop\ws\oop-workshops-master\ws06\at-home\contact.cpp(132): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\seneca\2nd semester\oop\ws\oop-workshops-master\ws06\at-home\contact.cpp(133): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\seneca\2nd semester\oop\ws\oop-workshops-master\ws06\at-home\contact.cpp(159): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\seneca\2nd semester\oop\ws\oop-workshops-master\ws06\at-home\contact.cpp(160): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+e:\seneca\2nd semester\oop\ws\oop-workshops-master\ws06\at-home\contact.cpp(161): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  at-home.vcxproj -> E:\Seneca\2nd Semester\oop\ws\OOP-Workshops-master\WS06\at-home\Debug\at-home.exe
+  at-home.vcxproj -> E:\Seneca\2nd Semester\oop\ws\OOP-Workshops-master\WS06\at-home\Debug\at-home.pdb (Full PDB)
