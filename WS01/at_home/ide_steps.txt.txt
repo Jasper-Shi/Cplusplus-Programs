@@ -1,0 +1,1 @@
+Open Visual Studio -> File/New/Project -> Visual C++/Windows/Win32. Clike Win32   Console Application and click OK -> Click Next and select Console application.    Finish

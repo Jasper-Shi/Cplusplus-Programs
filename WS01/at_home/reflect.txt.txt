@@ -1,0 +1,6 @@
+1. A namespace is a scope for the entities that is encloses. Namespace is to    avoid identifier conflicts
+2. Header files can improve build times, link against cod without having the    source code for the definitions ,and avoid marking everything in one file.
+3. Compilers only can compile ".cpp" files and object files will be created.
+4. That causes that you compile one ".cpp" file twice which lead to an error.
+5. It is not recommanded to have all source code in one file. Becuase it is very difficult to edit the code when there are something wrong in the code.
+6. I learnt modular programming and how run it both on the visual studio and    linux operating system.
