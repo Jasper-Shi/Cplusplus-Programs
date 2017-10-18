@@ -1,0 +1,4 @@
+Use logic from Yuansheng Lu as a referrence in loadRecs function in AidApp.cpp.
+
+Failure to identify any code or logic developed by others and included in your solution
+will result in an assessment of plagiarism by your professor.
